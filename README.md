@@ -4,9 +4,7 @@ Adjustable recoil compensation script written for Logitech-G502 Hero.
 ## Setting Up
 1. Launch Logitech GHub.
 2. Open the mouse profile.
-3. Along-side `DETAILS` you will see a button labelled `SCRIPTING`
-   
-  Click on that.
+3. Along-side `DETAILS` you will see a button labelled `SCRIPTING`... Click on that.
 4. Copy and paste the code found in [main.lua](./main.lua)
 5. Save and Run
 
