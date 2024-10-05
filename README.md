@@ -3,10 +3,10 @@
 
 ### Table of Contents
 
-> * [About](##About)
->   * [Key Features](##Key-Features)
-> * [Installation](##Installation)
-> * [Controls](##Controls)
+> * [About](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/edit/main/README.md#about)
+>   * [Key Features](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/edit/main/README.md#key-features)
+> * [Installation](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/edit/main/README.md#installation)
+> * [Controls](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/edit/main/README.md#controls)
 
 ---
 
