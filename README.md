@@ -29,16 +29,16 @@ This script is intended for advanced users looking to automate specific mouse in
 
 ## Installation
 
-1. Launch Logitech GHub. ![image](https://github.com/user-attachments/assets/a511de76-eea0-4ccc-9193-221aab4b1a77)
+1. Launch Logitech GHub. &nbsp; &nbsp; <img src="https://github.com/user-attachments/assets/a511de76-eea0-4ccc-9193-221aab4b1a77">
 
-2. Open the profile selection dropdown. <br> ![image](https://github.com/user-attachments/assets/75113291-989f-4069-aaa9-b0db44c26f3c)<br>
+2. Open the profile selection dropdown. <br><img src="https://github.com/user-attachments/assets/bcf408e7-fb3b-46a7-b28e-1aff46f6d6c8">
 
-3. Select the the buttom `MANAGE PROFILES` <br> ![image](https://github.com/user-attachments/assets/ffbd9b72-0bf3-46bf-8bb5-d2edd9c4aabe)
+3. Select the "`Manage Profiles`" button <br><img src="https://github.com/user-attachments/assets/26f8245f-62c4-47ac-8d96-cf1ef980e4ec">
 
-4. <sup><samp>OPTIONAL:</samp></sup> Select the game/profile you wish to apply the script to... <br> ![image](https://github.com/user-attachments/assets/eb2b45b6-20b3-4e1d-bbfd-7bb2197e76ab)
+4. <samp>OPTIONAL:</samp> <em>Select the game/profile you wish to apply the script for.<br> ![image](https://github.com/user-attachments/assets/eb2b45b6-20b3-4e1d-bbfd-7bb2197e76ab)</em>
 
 5. Along-side `DETAILS` you will see the following button ![image](https://github.com/user-attachments/assets/06314d5b-e832-4fe6-99fa-5f579e3b25ba) <br>
-  Click on that button which will take you to a scripting menu. <br> ![image](https://github.com/user-attachments/assets/332498c8-0c74-47bb-9325-7678b768e088)
+  ... Click on that button which will take you to a scripting menu. <br> ![image](https://github.com/user-attachments/assets/332498c8-0c74-47bb-9325-7678b768e088)
 
 6. Copy the code found in [main.lua](./main.lua) and then click on the `Edit` menu button above the script field and click `Paste` <br> ![image](https://github.com/user-attachments/assets/896c13b6-5f61-45c9-bed3-b83414266315)
 
