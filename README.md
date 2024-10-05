@@ -1,5 +1,12 @@
 # LG502 Adjustable Recoil Compensation
 
+<p align="right">
+	Show your support:
+	<br>
+	<a href="https://github.com/sponsors/Nathan-Bransby-NMT">
+		<img src="https://img.shields.io/github/sponsors/Nathan-Bransby-NMT?style=plastic&logoSize=auto&logo=GitHub-Sponsors&logoColor=#white">
+	</a>
+</p>
 
 ### Table of Contents
 
