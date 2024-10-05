@@ -10,16 +10,16 @@
 
 ### Table of Contents
 
-> 1. [About](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#about)
-> 2. [Features](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#features)
-> 3. [Installation](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#installation)
-> 4. [Usage](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#usage)
->    - [Controls](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#controls)
-> 5. [Configuration](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#configuration)
->    - [Keybindings](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#keybindings) 
-> 6. [Contributing](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#contributing)
-> 7. [License](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#license)
-> 8. [Contact](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#contact)
+> 1. [About](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#about)
+> 2. [Features](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#features)
+> 3. [Installation](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#installation)
+> 4. [Usage](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#usage)
+>    - [Controls](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#controls)
+> 5. [Configuration](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#configuration)
+>    - [Keybindings](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#keybindings) 
+> 6. [Contributing](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#contributing)
+> 7. [License](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#license)
+> 8. [Contact](https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#contact)
 
 ---
 
@@ -94,7 +94,7 @@ Listed bellow are the default controls.
 |   `LAlt` + `PageUp` | Increase delay interval                |
 | `LAlt` + `PageDown` | Decrease delay interval                |
 
-> <samp>For creating custom controls, see <a href="https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/main/README.md#keybindings">Keybindings</a>.
+> <samp>For creating custom controls, see <a href="https://github.com/Nathan-Bransby-NMT/LG502-Adjustable-Recoil-Comp/tree/main?tab=readme-ov-file#keybindings">Keybindings</a>.
 
 ---
 
